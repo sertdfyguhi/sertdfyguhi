@@ -16,6 +16,9 @@ man im shit at introducing myself
 6. python
 7. some go
 
+# things im working on
+- [shitlang](https://github.com/sertdfyguhi/shitlang): its a shit "programming language" that has no parser but i mean it makes sense to read and write
+
 # statistics
 ![sertdfyguhi's github stats](https://github-readme-stats.vercel.app/api?username=sertdfyguhi&show_icons=true&theme=material-palenight)  
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sertdfyguhi&theme=material-palenight&layout=compact)  
