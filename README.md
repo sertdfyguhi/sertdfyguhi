@@ -20,8 +20,8 @@ man im shit at introducing myself
 - [shitlang](https://github.com/sertdfyguhi/shitlang): its a shit "programming language" that has no parser but i mean it makes sense to read and write
 
 # statistics
-![sertdfyguhi's github stats](https://github-readme-stats.vercel.app/api?username=sertdfyguhi&show_icons=true&theme=material-palenight)  
-![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sertdfyguhi&theme=material-palenight&layout=compact)  
+![sertdfyguhi's github stats](https://github-readme-stats.vercel.app/api?username=sertdfyguhi&show_icons=true&bg_color=FFCEE6&title_color=EF87BE&icon_color=F9A3CB&text_color=ffffff)  
+![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=sertdfyguhi&show_icons=true&bg_color=FFCEE6&title_color=EF87BE&icon_color=F9A3CB&layout=compact)  
 
 # contacts
 discord: sertdfyguhi#5971
