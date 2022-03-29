@@ -17,7 +17,7 @@ man im shit at introducing myself
 7. some go
 
 # things im working on
-- [shitlang](https://github.com/sertdfyguhi/shitlang): its a shit "programming language" that has no parser but i mean it makes sense to read and write
+- nothing
 
 # statistics
 ![sertdfyguhi's github stats](https://github-readme-stats.vercel.app/api?username=sertdfyguhi&show_icons=true&bg_color=FCBCD7&title_color=E56AB3&icon_color=EF87BE&text_color=ffffff)  
