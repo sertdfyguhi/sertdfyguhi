@@ -17,7 +17,7 @@ man im shit at introducing myself
 7. some go
 
 # projects
-- [hgdfhjvysger](https://github.com/sertdfyguhi/hgdfhjvysger): shitty [chancejs](https://github.com/chancejs/chancejs) clone thats worse
+- [hgdfhjvysger](https://github.com/sertdfyguhi/hgdfhjvysger): shitty [chance.js](https://github.com/chancejs/chancejs) clone
 - [shitlang](https://github.com/sertdfyguhi/shitlang): no parser language 😎
 - spck: [spwn](https://github.com/Spu7Nix/SPWN-language) package manager that is dead
 
