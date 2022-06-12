@@ -3,6 +3,7 @@ hello, im sertdfyguhi or you can call me sert.
 my interests include:
 - programming
 - 3d modeling  
+- photography 
 
 ive been doing both for almost 2 years now  
 man im shit at introducing myself
