@@ -1,30 +1,29 @@
-# hi
-hello, im sertdfyguhi or you can call me sert.    
-my interests include:
+# Hi
+hello, im sertdfyguhi or sert
+i do:
 - programming
-- 3d modeling  
 - photography 
+- 3d modeling (used to)
 
-ive been doing both for almost 2 years now  
-man im shit at introducing myself
+# Technologies
+1. Python
+2. HTML
+3. JS
+4. NodeJS
+5. Express
+6. CSS
+7. EJS
+9. Some Go
 
-# technologies i know
-1. html
-2. css
-3. ejs
-4. js
-5. nodejs
-6. python
-7. some go
-
-# projects
-- [hgdfhjvysger](https://github.com/sertdfyguhi/hgdfhjvysger): shitty [chance.js](https://github.com/chancejs/chancejs) clone
-- [shitlang](https://github.com/sertdfyguhi/shitlang): no parser language 😎
-- spck: [spwn](https://github.com/Spu7Nix/SPWN-language) package manager that is dead
+# Projects
+- [onGAU](https://github.com/sertdfyguhi/onGAU): an image generation UI (currently in development)
+- [hgdfhjvysger](https://github.com/sertdfyguhi/hgdfhjvysger): a npm package for pseudo random values
+- [shitlang](https://github.com/sertdfyguhi/shitlang): says it in the name
+- [spck](https://github.com/sertdfyguhi/spck-server]: an old, unfinished package manager for [spwn](https://github.com/Spu7Nix/SPWN-language)
 
 # statistics
-![sertdfyguhi's github stats](https://github-readme-stats.vercel.app/api?username=sertdfyguhi&show_icons=true&bg_color=FCBCD7&title_color=E56AB3&icon_color=EF87BE&text_color=ffffff)  
-![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=sertdfyguhi&bg_color=FCBCD7&title_color=E56AB3&text_color=ffffff&layout=compact)  
+![sertdfyguhi's github stats](https://github-readme-stats.vercel.app/api?username=sertdfyguhi&show_icons=true&theme=dracula)  
+![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=sertdfyguhi&layout=compact&theme=dracula)  
 
-# contacts
+# Contact
 discord: sertdfyguhi#5971
