@@ -5,6 +5,8 @@ i do:
 - photography 
 - 3d modeling (used to)
 
+website: https://sertdfyguhi.github.io
+
 # Technologies
 1. Python
 2. HTML
@@ -21,7 +23,7 @@ i do:
 - [shitlang](https://github.com/sertdfyguhi/shitlang): says it in the name
 - [spck](https://github.com/sertdfyguhi/spck-server): an old, unfinished package manager for [spwn](https://github.com/Spu7Nix/SPWN-language)
 
-# statistics
+# Statistics
 ![sertdfyguhi's github stats](https://github-readme-stats.vercel.app/api?username=sertdfyguhi&show_icons=true&theme=dracula)  
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=sertdfyguhi&layout=compact&theme=dracula)  
 
