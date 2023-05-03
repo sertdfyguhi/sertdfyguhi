@@ -9,18 +9,18 @@ website: https://sertdfyguhi.github.io
 
 # Technologies
 1. Python
-2. HTML
-3. JS
-4. NodeJS
-5. Express
-6. CSS
-7. EJS
-9. Some Go
+2. NodeJS: Express, discord.js
+3. HTML, JS, CSS
+4. SQLite3
+5. ejs
+6. SPWN
+7. Some Go
 
 # Projects
 - [onGAU](https://github.com/sertdfyguhi/onGAU): an image generation UI (currently in development)
+- [meth](https://github.com/sertdfyguhi/meth): a parser for mathematical expressions
+- [shitlang](https://github.com/sertdfyguhi/shitlang): shitty programming language (no parser)
 - [hgdfhjvysger](https://github.com/sertdfyguhi/hgdfhjvysger): a npm package for pseudo random values
-- [shitlang](https://github.com/sertdfyguhi/shitlang): says it in the name
 - [spck](https://github.com/sertdfyguhi/spck-server): an old, unfinished package manager for [spwn](https://github.com/Spu7Nix/SPWN-language)
 
 # Statistics
