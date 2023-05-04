@@ -2,7 +2,7 @@
 hello, im sertdfyguhi or sert  
 i do:
 - programming
-- photography 
+- [photography](https://sertdfyguhi.github.io/photography.html)  
 - 3d modeling (used to)
 
 website: https://sertdfyguhi.github.io
