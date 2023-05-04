@@ -14,7 +14,8 @@ website: https://sertdfyguhi.github.io
 4. SQLite3
 5. ejs
 6. SPWN
-7. Some Go
+7. Unity & C# (a little bit rusty)
+8. Some Go
 
 # Projects
 - [onGAU](https://github.com/sertdfyguhi/onGAU): an image generation UI (currently in development)
