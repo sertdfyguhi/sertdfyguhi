@@ -18,7 +18,7 @@ website: https://sertdfyguhi.github.io
 8. Some Go
 
 # Projects
-- [onGAU](https://github.com/sertdfyguhi/onGAU): an image generation UI (currently in development)
+- [onGAU](https://github.com/sertdfyguhi/onGAU): an image generation UI
 - [meth](https://github.com/sertdfyguhi/meth): a parser for mathematical expressions
 - [shitlang](https://github.com/sertdfyguhi/shitlang): shitty programming language (no parser)
 - [hgdfhjvysger](https://github.com/sertdfyguhi/hgdfhjvysger): a npm package for pseudo random values
