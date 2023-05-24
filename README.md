@@ -8,7 +8,7 @@ i do:
 website: https://sertdfyguhi.github.io
 
 # Technologies
-1. Python
+1. Python: DearPyGUI
 2. NodeJS: Express, discord.js
 3. HTML, JS, CSS
 4. SQLite3
@@ -16,6 +16,7 @@ website: https://sertdfyguhi.github.io
 6. SPWN
 7. Unity & C# (a little bit rusty)
 8. Some Go
+9. Learning C
 
 # Projects
 - [onGAU](https://github.com/sertdfyguhi/onGAU): an image generation UI
