@@ -20,6 +20,7 @@ website: https://sertdfyguhi.github.io
 
 # Projects
 - [onGAU](https://github.com/sertdfyguhi/onGAU): an image generation UI
+- [Earth Curvature Calculator](https://github.com/sertdfyguhi/earth-curvature): a [calculator](https://sertdfyguhi.github.io/earth-curvature) for the earth's curvature with visualizations
 - [meth](https://github.com/sertdfyguhi/meth): a parser for mathematical expressions
 - [shitlang](https://github.com/sertdfyguhi/shitlang): shitty programming language (no parser)
 - [hgdfhjvysger](https://github.com/sertdfyguhi/hgdfhjvysger): a npm package for pseudo random values
