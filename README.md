@@ -18,7 +18,7 @@ website: https://sertdfyguhi.github.io
 9. Unity & C# (a little bit rusty)
 10. Learning C
 
-# shit i did
+# things i've made
 - [onGAU](https://github.com/sertdfyguhi/onGAU): an image generation UI
 - [meth](https://github.com/sertdfyguhi/meth): a parser for mathematical expressions
 - [shitlang](https://github.com/sertdfyguhi/shitlang): shitty programming language (no parser)
@@ -30,5 +30,8 @@ website: https://sertdfyguhi.github.io
 ![sertdfyguhi's github stats](https://github-readme-stats.vercel.app/api?username=sertdfyguhi&show_icons=true&theme=dracula)  
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=sertdfyguhi&layout=compact&theme=dracula)  
 
-# Contact
+# contact
 discord: sertdfyguhi#5971
+
+# donate
+XMR (Monero) wallet: 46dJeCpZYnnfPjzHagA82zWASf2zZrQJqVsf7KoMfAmEEx9bpiSBCE3BHVCie2xSaXSKfndqrjSs7UCSQWuorNtVGNZ9NTm
