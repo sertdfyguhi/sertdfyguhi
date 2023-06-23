@@ -31,8 +31,8 @@ website: https://sertdfyguhi.github.io
 <!-- - [spck](https://github.com/sertdfyguhi/spck-server): an old, unfinished package manager for [SPWN](https://github.com/Spu7Nix/SPWN-language) -->
 
 # stats
-![sertdfyguhi's github stats](https://github-readme-stats.vercel.app/api?username=sertdfyguhi&show_icons=true&theme=dracula)  
-![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=sertdfyguhi&layout=compact&theme=dracula)  
+![sertdfyguhi's github stats](https://github-readme-stats.vercel.app/api?username=sertdfyguhi&show_icons=true&theme=rose_pine)  
+![top languages](https://github-readme-stats.vercel.app/api/top-langs?username=sertdfyguhi&layout=compact&theme=rose_pine&card_width=467)  
 
 # contact
 discord: sertdfyguhi#5971
