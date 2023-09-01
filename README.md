@@ -7,24 +7,26 @@ i do:
 
 website: https://sertdfyguhi.github.io
 
-# technologies i know
+# technologies
 1. Python: DearPyGUI
 2. NodeJS: Express, discord.js
 3. HTML, JS, CSS
 4. C
 5. SPWN
-6. SQLite3
-7. EJS
-8. Go
-9. Unity & C# (quite rusty)
+6. Rust
+7. Unity & C#
+8. EJS
+9. Go
+10. SQL
 
 # projects
 ## currently developing
-- [false](https://github.com/sertdfyguhi/false): a programming language written in C, aimed to have a simple & easy to understand syntax
 - [onGAU](https://github.com/sertdfyguhi/onGAU): a stable diffusion image generation UI written in python using dearpygui & diffusers
 - [meth](https://github.com/sertdfyguhi/meth): a python package to parse and execute mathematical expressions
+- [ketamine](https://github.com/sertdfyguhi/ketamine): a robust python package for colour conversion between colour models
 
 ## finished / stale projects
+- [false](https://github.com/sertdfyguhi/false): a programming language written in C, aimed to have a simple & easy to understand syntax (stale)
 - [shitlang](https://github.com/sertdfyguhi/shitlang): a shitty parser-free programming language written in python
 - [solo bomb party](https://sertdfyguhi.github.io/solo-bomb-party): a singleplayer / solo version of bomb party, accessable [here](https://sertdfyguhi.github.io/solo-bomb-party)
 - [earth curvature calculator](https://github.com/sertdfyguhi/earth-curvature): a [calculator](https://sertdfyguhi.github.io/earth-curvature) for the earth's curvature with mathematical visualizations
