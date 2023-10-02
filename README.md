@@ -8,7 +8,7 @@ i do:
 website: https://sertdfyguhi.github.io
 
 # technologies
-1. Python: DearPyGUI
+1. Python: DearPyGUI, diffusers
 2. NodeJS: Express, discord.js
 3. HTML, JS, CSS
 4. C
