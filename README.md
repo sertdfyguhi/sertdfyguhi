@@ -17,20 +17,22 @@ website: https://sertdfyguhi.github.io
 7. Unity & C#
 8. EJS
 9. Go
-10. SQL
 
 # projects
 ## currently developing
+- [Stable Diffusion Discord Bot](https://github.com/sertdfyguhi/stable-diffusion-bot): a discord bot for generating images using stable diffusion
 - [onGAU](https://github.com/sertdfyguhi/onGAU): a stable diffusion image generation UI written in python using dearpygui & diffusers
 - [meth](https://github.com/sertdfyguhi/meth): a python package to parse and execute mathematical expressions
-- [ketamine](https://github.com/sertdfyguhi/ketamine): a robust python package for colour conversion between colour models
 
-## finished / stale projects
-- [false](https://github.com/sertdfyguhi/false): a programming language written in C, aimed to have a simple & easy to understand syntax (stale)
+## finished projects
+- [ketamine](https://github.com/sertdfyguhi/ketamine): a robust python package for colour conversion between colour models
 - [shitlang](https://github.com/sertdfyguhi/shitlang): a shitty parser-free programming language written in python
-- [solo bomb party](https://sertdfyguhi.github.io/solo-bomb-party): a singleplayer / solo version of bomb party, accessable [here](https://sertdfyguhi.github.io/solo-bomb-party)
+- [solo bomb party](https://sertdfyguhi.github.io/solo-bomb-party): a singleplayer version of bomb party, accessable [here](https://sertdfyguhi.github.io/solo-bomb-party)
 - [earth curvature calculator](https://github.com/sertdfyguhi/earth-curvature): a [calculator](https://sertdfyguhi.github.io/earth-curvature) for the earth's curvature with mathematical visualizations
-<!-- - [spck](https://github.com/sertdfyguhi/spck-server): an old, unfinished package manager for [SPWN](https://github.com/Spu7Nix/SPWN-language) -->
+
+## stale / abandoned projects
+- [false](https://github.com/sertdfyguhi/false): a programming language written in C, aimed to have a simple & easy to understand syntax
+- [spck](https://github.com/sertdfyguhi/spck-server): an old, unfinished package manager for [SPWN](https://github.com/Spu7Nix/SPWN-language)
 
 # stats
 ![sertdfyguhi's github stats](https://github-readme-stats.vercel.app/api?username=sertdfyguhi&show_icons=true&theme=rose_pine)  
